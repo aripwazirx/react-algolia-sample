@@ -1,0 +1,1 @@
+sample call for user and nft search
